@@ -1,16 +1,18 @@
-OrientDB to Elasticsearch Sync v. BETA 0.1
+OrientDB to Elasticsearch Sync
 ========================
 
+
+### version BETA 0.1
 
 #### Sync both ways, between orientdb and elasticsearch
 
 #### How to use it:
 
-- `git clone https://github.com/AndreiD/Flask-Easy-Template.git <project_name>` or download the zip
+- `git clone https://github.com/AndreiD/orientdb-to-elasticsearch-sync.git <project_name>` or download the zip
 - `pip install -r requirements.txt`
-- edit the `config.py` with your settings. 
+- Edit the `config.py` with your settings. 
 - `python sync_orient_to_es.py -v` [skip the -v if you don't want any output]
-- add it to cron
+- Add it to cron 
 
 #### TODO:
  
